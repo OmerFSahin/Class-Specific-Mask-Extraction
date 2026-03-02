@@ -56,3 +56,15 @@ python src/extract_label.py \
 --label 2
 --label 3
 
+## Before Extraction
+
+| Scan | Mask |
+|--------|--------|
+| ![](./assets/scan.png) | ![](./assets/mask-before-extraction.png) |
+
+## After Extraction
+
+| Scan | Mask |
+|--------|--------|
+| ![](assets/mscan.png) | ![](assets/mask-after-extraction.png) |
+
