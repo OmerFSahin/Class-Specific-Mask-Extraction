@@ -10,17 +10,17 @@ The dataset is not included in this repository due to licensing and size conside
 ---
 
 ## 📂 Expected Folder Structure
-
+```
 data/input/
 patient_001/
 patient_001(SCAN).nrrd
 patient_001(MASK).nrrd
 patient_002/
-
+```
+```
 Output will be written to:
 data/output/<patient_id>/
-
-
+```
 ---
 
 ##  Example Multi-Class Labels
