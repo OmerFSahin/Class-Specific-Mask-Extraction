@@ -66,5 +66,5 @@ python src/extract_label.py \
 
 | Scan | Mask |
 |--------|--------|
-| ![](assets/mscan.png) | ![](assets/mask-after-extraction.png) |
+| ![](assets/scan.png) | ![](assets/mask-after-extraction.png) |
 
